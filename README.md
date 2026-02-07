@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Abdourahman a Software Engineering Student based in Istanbul. <br>A Software Engineering student passionate about building robust systems and ensuring code quality. I focus on backend development, database management with SQL, and software testing strategies. Currently, I'm refining my skills in Project Management and interdisciplinary engineering collaboration.<br>I’m currently learning Operating Systems architecture and Software Quality Assurance (SQA) and working on Interdisciplinary Engineering Group Projects using OpenProject.
+I'm Abdourahman a Software Engineering Student based in Istanbul. <br> I am passionate about building robust systems and ensuring code quality. I focus on backend development, database management with SQL, and software testing strategies. Currently, I'm refining my skills in Project Management and interdisciplinary engineering collaboration.<br>I’m currently learning Operating Systems architecture and Software Quality Assurance (SQA) and working on Interdisciplinary Engineering Group Projects using OpenProject.
 
 
 ## 🌐 Socials:
